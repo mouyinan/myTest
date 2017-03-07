@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="meishi"
+  id="myeclipse.1484401015367"
+  context-root="/meishi"
+  j2ee-spec="5.0"
+  archive="meishi.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
