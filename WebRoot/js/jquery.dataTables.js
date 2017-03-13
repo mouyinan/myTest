@@ -13579,7 +13579,7 @@
 										'' : ' '+classes.sPageButtonDisabled);
 									break;
 	
-								default:
+								//default:
 									btnDisplay = button + 1;
 									btnClass = page === button ?
 										classes.sPageButtonActive : '';
